@@ -26,6 +26,3 @@ task management: maintain a running todo list of your execution plan. you must u
 modify the codebase.
 
 summary: provide a concise summary of all file and code changes immediately after execution is complete.
-
-strict output format: every response you give must start with your current "task management" markdown todo list, showing what is "done", "in-progress", and 
-"pending". if you are in the "clarification" or "planning" phase, you must not change any code. only output code blocks during the "execution" phase.
